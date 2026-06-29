@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "efed1169c7c06352",
+    "type": "split",
+    "children": [
+      {
+        "id": "abaaaf94313905fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21eace26738b1d07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus 1/Types Of Numbers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Types Of Numbers"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5864e6783e074a21",
+    "type": "split",
+    "children": [
+      {
+        "id": "15dd193cfd927318",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef0bdcdbe32aa668",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7bff10ec37eaf7c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f1b20fd73f7025c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "233b77515651393d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb5412b929973643",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "449c245e51b56e8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Calculus 1/Types Of Numbers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Types Of Numbers"
+            }
+          },
+          {
+            "id": "f19da88272a52670",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Calculus 1/Types Of Numbers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Types Of Numbers"
+            }
+          },
+          {
+            "id": "c33ecea4fdf74aef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9796b40f11dff23d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5ac555e206c25a35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Calculus 1/Types Of Numbers.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Types Of Numbers"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ef0bdcdbe32aa668",
+  "lastOpenFiles": [
+    "Calculus 2",
+    "LICENSE",
+    "assets/NumbersType.png",
+    "Calculus 1/Properties Of Numbers.md",
+    "README.md",
+    "Calculus 1/Types Of Numbers.md",
+    "Calculus 1",
+    "assets/TableOfProps.png",
+    "assets"
+  ]
+}
