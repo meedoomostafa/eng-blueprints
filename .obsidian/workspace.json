@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE/distributed-systems/Episode 1.md",
+                "file": "SWE/distributed-systems/Episode 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Episode 1"
+              "title": "Episode 2"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cbd2d49b337c809b",
@@ -174,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -183,10 +185,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "c9239820d9ed0041",
+  "active": "03df85f61f10fea6",
   "lastOpenFiles": [
+    "SWE/distributed-systems/Episode 1.md",
+    "SWE/distributed-systems/Episode 2.md",
     "SWE/distributed-systems/README.md",
-    "Math/calculus/README.md",
-    "SWE/distributed-systems/Episode 1.md"
+    "Math/calculus/README.md"
   ]
 }
